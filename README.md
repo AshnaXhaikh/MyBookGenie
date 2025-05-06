@@ -1,6 +1,6 @@
 # 📚 BookGenie —  My AI Assistant for Life-Changing Books!
 
-BookGenie is an AI assistant that understands **4 productivity bibles** and brings their wisdom to life — instantly. No more flipping pages or forgetting key lessons. Just ask, and it answers.
+BookGenie is an AI assistant that understands **4 productivity books** and brings their wisdom to life — instantly. No more flipping pages or forgetting key lessons. Just ask, and it answers.
 
 ---
 ## 📖 Highlighted a mind-blowing thought once… and totally forgot about it afterward?
